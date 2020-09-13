@@ -4,6 +4,7 @@
 // https://nodemailer.com/about/
 // https://www.youtube.com/watch?v=nF9g1825mwk&app=desktop
 // https://www.youtube.com/watch?v=vrbyaOoZ-4Q&feature=youtu.be
+// https://www.npmjs.com/package/react-google-recaptcha
 
 import { NowRequest, NowResponse } from '@vercel/node';
 
